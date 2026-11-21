@@ -1,0 +1,7 @@
+skill:
+  id: red-team-review
+  jurisdiction: Saint Kitts and Nevis
+  status: ACTIVE
+  description: Adversarial review for legal/factual weaknesses
+  guardrails:
+    - no_fabricated_citations
