@@ -1,0 +1,17 @@
+{
+  "url": "https://caricom.org/country_profiles/st-kitts-and-nevis/",
+  "final_url": "https://caricom.org/country_profiles/st-kitts-and-nevis/",
+  "title": "CARICOM - Saint Kitts and Nevis",
+  "fetched_at": "2026-11-23T15:33:55.286548Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 346370,
+  "sha256": "d149092d39bdb631c000e6fe5c85e788f31a85213e9c0a32f5aa84373340fd7a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
